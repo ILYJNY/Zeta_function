@@ -35,6 +35,6 @@ else
 
 fi
 git remote remove origin
-git remote add ${input_repos}
+git remote add origin ${input_repos}
 git push origin +master
 pause
