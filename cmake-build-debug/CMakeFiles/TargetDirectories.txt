@@ -1,3 +1,3 @@
-C:/Users/jeonl/CLionProjects/Reimann Zeta Fun/cmake-build-debug/CMakeFiles/Reimann_Zeta_Fun.dir
-C:/Users/jeonl/CLionProjects/Reimann Zeta Fun/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jeonl/CLionProjects/Reimann Zeta Fun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jeonl/CLionProjects/Reimann_Zeta_Fun/cmake-build-debug/CMakeFiles/Reimann_Zeta_Fun.dir
+C:/Users/jeonl/CLionProjects/Reimann_Zeta_Fun/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jeonl/CLionProjects/Reimann_Zeta_Fun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
