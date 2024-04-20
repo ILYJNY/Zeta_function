@@ -73,6 +73,24 @@ build CMakeFiles/Reimann_Zeta_Fun.dir/Calculations/complex_cal.cpp.obj: CXX_COMP
   OBJECT_DIR = CMakeFiles\Reimann_Zeta_Fun.dir
   OBJECT_FILE_DIR = CMakeFiles\Reimann_Zeta_Fun.dir\Calculations
 
+build CMakeFiles/Reimann_Zeta_Fun.dir/Calculations/Bernoulli_Numbers.cpp.obj: CXX_COMPILER__Reimann_Zeta_Fun_unscanned_Debug C$:/Users/jeonl/CLionProjects/Reimann_Zeta_Fun/Calculations/Bernoulli$ Numbers.cpp || cmake_object_order_depends_target_Reimann_Zeta_Fun
+  DEP_FILE = CMakeFiles\Reimann_Zeta_Fun.dir\Calculations\Bernoulli_Numbers.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Reimann_Zeta_Fun.dir
+  OBJECT_FILE_DIR = CMakeFiles\Reimann_Zeta_Fun.dir\Calculations
+
+build CMakeFiles/Reimann_Zeta_Fun.dir/Calculations/Stirling_numbers_of_the_second_kind.cpp.obj: CXX_COMPILER__Reimann_Zeta_Fun_unscanned_Debug C$:/Users/jeonl/CLionProjects/Reimann_Zeta_Fun/Calculations/Stirling$ numbers$ of$ the$ second$ kind.cpp || cmake_object_order_depends_target_Reimann_Zeta_Fun
+  DEP_FILE = CMakeFiles\Reimann_Zeta_Fun.dir\Calculations\Stirling_numbers_of_the_second_kind.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Reimann_Zeta_Fun.dir
+  OBJECT_FILE_DIR = CMakeFiles\Reimann_Zeta_Fun.dir\Calculations
+
+build CMakeFiles/Reimann_Zeta_Fun.dir/Graph/Reimann_Zeta_sorting.cpp.obj: CXX_COMPILER__Reimann_Zeta_Fun_unscanned_Debug C$:/Users/jeonl/CLionProjects/Reimann_Zeta_Fun/Graph/Reimann$ Zeta$ sorting.cpp || cmake_object_order_depends_target_Reimann_Zeta_Fun
+  DEP_FILE = CMakeFiles\Reimann_Zeta_Fun.dir\Graph\Reimann_Zeta_sorting.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Reimann_Zeta_Fun.dir
+  OBJECT_FILE_DIR = CMakeFiles\Reimann_Zeta_Fun.dir\Graph
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Reimann_Zeta_Fun
@@ -81,7 +99,7 @@ build CMakeFiles/Reimann_Zeta_Fun.dir/Calculations/complex_cal.cpp.obj: CXX_COMP
 #############################################
 # Link the executable Reimann_Zeta_Fun.exe
 
-build Reimann_Zeta_Fun.exe: CXX_EXECUTABLE_LINKER__Reimann_Zeta_Fun_Debug CMakeFiles/Reimann_Zeta_Fun.dir/main.cpp.obj CMakeFiles/Reimann_Zeta_Fun.dir/Function/Zeta_Euler.cpp.obj CMakeFiles/Reimann_Zeta_Fun.dir/Function/Zeta_Reimann(complex).cpp.obj CMakeFiles/Reimann_Zeta_Fun.dir/Calculations/complex_cal.cpp.obj
+build Reimann_Zeta_Fun.exe: CXX_EXECUTABLE_LINKER__Reimann_Zeta_Fun_Debug CMakeFiles/Reimann_Zeta_Fun.dir/main.cpp.obj CMakeFiles/Reimann_Zeta_Fun.dir/Function/Zeta_Euler.cpp.obj CMakeFiles/Reimann_Zeta_Fun.dir/Function/Zeta_Reimann(complex).cpp.obj CMakeFiles/Reimann_Zeta_Fun.dir/Calculations/complex_cal.cpp.obj CMakeFiles/Reimann_Zeta_Fun.dir/Calculations/Bernoulli_Numbers.cpp.obj CMakeFiles/Reimann_Zeta_Fun.dir/Calculations/Stirling_numbers_of_the_second_kind.cpp.obj CMakeFiles/Reimann_Zeta_Fun.dir/Graph/Reimann_Zeta_sorting.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Reimann_Zeta_Fun.dir

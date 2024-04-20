@@ -55,7 +55,10 @@
 				0,
 				1,
 				2,
-				3
+				3,
+				4,
+				5,
+				6
 			]
 		}
 	],
@@ -95,7 +98,10 @@
 				0,
 				1,
 				2,
-				3
+				3,
+				4,
+				5,
+				6
 			]
 		}
 	],
@@ -123,6 +129,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Calculations/complex_cal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Calculations/Bernoulli Numbers.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Calculations/Stirling numbers of the second kind.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Graph/Reimann Zeta sorting.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
