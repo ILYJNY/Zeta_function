@@ -8,7 +8,7 @@ if [ ${input_commit} == "Auto" ] ; then
 else
   git commit -m "${input_commit}"
 fi
-echo "Enter the git repos(if you want automatically, type \"Auto\""
+echo "Enter the git repos"
 read input_repos
 git remote remove origin
 git remote add origin "${input_repos}"
